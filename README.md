@@ -8,6 +8,7 @@
   - target
  - You will be predicting if tweet is a real disaster (1) or not (0)
  - Machine learning models such as LightGBM, XGBoost, RandomForest, and CatBoost Classifiers have been used to predict the disaster tweets.
+ - RandomizedSearchCv is used to tune hyperparameters for models.
  
 Models | LGBMClassifier | CatBoostClassifier | XGBClassifier | RandomForestClassifier
 | :---: | :---: | :---: | :---: | :---:
